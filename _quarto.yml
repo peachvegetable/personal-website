@@ -11,7 +11,7 @@ website:
       - about.qmd
       - href: cv.pdf
         text: "CV"
-      - href: "bio.pdf"
+      - href: bio.pdf
         text: "Bio"
         
 
