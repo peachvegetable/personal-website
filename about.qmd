@@ -3,5 +3,3 @@ title: "About"
 ---
 
 About this site
-
-[My CV](cv.pdf)
