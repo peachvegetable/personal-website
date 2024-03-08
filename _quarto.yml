@@ -9,10 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - text: "CV"
-        href: cv.pdf
-      - text: "Bio"
-        href: "bio.pdf"
+      - href: cv.pdf
+        text: "CV"
+      - href: "bio.pdf"
+        text: "Bio"
+        
 
 format:
   html:
